@@ -1,2 +1,2 @@
 # furkanay
-This bot for meeting and learn your horoscopes
+# This bot for meeting and learn your horoscopes and features
