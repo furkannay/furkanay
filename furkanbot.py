@@ -45,10 +45,6 @@ async def bad(ctx):
 async def Iam(ctx):
 	await ctx.send("the best age...") 
 
-@client.command()
-async def Türk(ctx):
-	await ctx.send("-p cendere")
-
 
 
 
